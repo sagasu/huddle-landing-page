@@ -2,7 +2,7 @@ import React from 'react'
 import { Flex as Flex } from './styles/Flex.styled'
 import { Container } from './styles/Container.styled'
 import { StyledFooter } from './styles/Footer.styled'
-import SocialIcons from './components/SocialIcons';
+import SocialIcons from './SocialIcons';
 
 const Footer = () => {
     return (

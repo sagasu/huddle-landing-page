@@ -1,6 +1,6 @@
 import {Container} from './components/styles/Container.styled';
 import Header from './components/header';
-import Footer from './components/header';
+import Footer from './components/Footer';
 import Card from './components/Card';
 import {ThemeProvider} from 'styled-components';
 import GlobalStyles from './components/styles/Global';
